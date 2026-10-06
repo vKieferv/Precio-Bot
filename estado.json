@@ -1,6 +1,7 @@
 {
   "tcl": false,
   "tiendas": [
-    "ejemplo.cl"
+    "ejemplo.cl",
+    "lider.cl"
   ]
 }
