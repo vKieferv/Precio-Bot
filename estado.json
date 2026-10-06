@@ -1,5 +1,5 @@
 {
-  "tcl": false,
+  "tcl": true,
   "tiendas": [
     "lider.cl"
   ]
