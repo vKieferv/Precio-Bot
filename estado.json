@@ -1,7 +1,8 @@
 {
-  "tcl": true,
+  "tcl": false,
   "tiendas": [
     "ejemplo.cl",
+    "falabella.com",
     "lider.cl"
   ]
 }
